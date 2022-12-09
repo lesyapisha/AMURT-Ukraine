@@ -1,0 +1,24 @@
+{
+  "name": "amurt-ukraine",
+  "version": "1.0.0",
+  "description": "Volunteering organization",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesyapisha/AMURT-Ukraine.git"
+  },
+  "author": "Lesya Pisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lesyapisha/AMURT-Ukraine/issues"
+  },
+  "homepage": "https://github.com/lesyapisha/AMURT-Ukraine#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
